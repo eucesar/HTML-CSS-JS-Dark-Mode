@@ -4,7 +4,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
-> ✍️ - I created a simple project for header navigation on a maximum screen of 1100px.
+> ✍️ - A simple website was made, focused on the transformation from White Mode to Dark Mode. Just to practice.
 
 
 ## Download
